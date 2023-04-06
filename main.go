@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github/khalelalsam/fun/conv"
 	"math"
+
+	"github.com/khalelalsam/fun/conv"
 )
 
 // Definerer flag-variablene i hoved-"scope"
